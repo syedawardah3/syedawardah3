@@ -1,3 +1,4 @@
+![image](https://github.com/syedawardah3/syedawardah3/assets/148571080/4926f964-434e-4c47-89fc-79b64c602d24)
 
 Wardah
 Web Developer | Graphic Designer
@@ -34,7 +35,7 @@ Logo Design for XYZ Startup
 
 Created a distinctive logo reflecting the startup's brand identity and vision.
 Contact:
-Feel free to reach out to me at wardah@email.com for collaboration opportunities or to discuss your project ideas.
+Feel free to reach out to me at syedawardah3@gmail.com for collaboration opportunities or to discuss your project ideas.
 
 Let's bring your ideas to life with code and creativity!
 
