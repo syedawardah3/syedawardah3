@@ -5,6 +5,7 @@
 
 Wardah
 Web Developer | Graphic Designer
+![haram harAM](https://github.com/syedawardah3/syedawardah3/assets/148571080/2a06bcd3-1262-4b3b-a5bb-ae2e5991a037)
 
 About Me:
 Hey there! I'm Wardah, a passionate web developer with proficiency in HTML, CSS, and TypeScript. With a keen eye for aesthetics and detail, I also dabble in graphic design to bring creativity into my projects.
