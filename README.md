@@ -1,4 +1,5 @@
-![image](https://github.com/syedawardah3/syedawardah3/assets/148571080/4926f964-434e-4c47-89fc-79b64c602d24)
+![image](https://github.com/syedawardah3/syedawardah3/assets/148571080/083017f2-8aa5-4ffa-9e9d-babd93067ea4)
+
 
 Wardah
 Web Developer | Graphic Designer
